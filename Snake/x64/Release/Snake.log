@@ -1,0 +1,7 @@
+﻿  The vcpkg manifest was disabled, but we found a manifest file in C:\Users\fanto\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  Создание кода
+  0 of 177 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Snake.vcxproj -> C:\Users\fanto\projects\cpp\LeetCode\Snake\x64\Release\Snake.exe
